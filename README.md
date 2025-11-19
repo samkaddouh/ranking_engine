@@ -1,6 +1,6 @@
-This project is an end-to-end simulation of a marketplace ranking engine, similar to the systems used by Mercor, Upwork, or LinkedIn.
+```This project is an end-to-end simulation of a marketplace ranking engine, similar to the systems used by Mercor, Upwork, or LinkedIn.
 It generates synthetic candidates and jobs, builds match features, trains an ML ranking model, and visualizes results through an interactive Streamlit dashboard.
-The goal is to demonstrate data science, ML modeling, experimentation, and product thinking for DS/ML roles involving ranking, recommendations, and labor-market intelligence.
+The goal is to demonstrate data science, ML modeling, experimentation, and product thinking for DS/ML roles involving ranking, recommendations, and labor-market intelligence.```
 🚀 Features
 🔧 Synthetic Data Generation
 30,000+ candidates
