@@ -55,4 +55,8 @@ Ranking & recommendation thinking
 Feature engineering at scale
 Model training + evaluation
 Interactive, stakeholder-facing dashboards
+<<<<<<< HEAD
 Applied DS/ML understanding
+=======
+Applied DS/ML understanding
+>>>>>>> dbec944384b6004307e49edd47fbfb6cb665625d
