@@ -11,7 +11,7 @@
 - 5,000+ jobs
 - 100,000+ candidate–job applications
 
-# Realistic distributions for:
+## Realistic distributions for:
 
 - Skills
 - Seniority Levels
