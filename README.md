@@ -64,7 +64,25 @@
     ```streamlit run app/streamlit_app.py```
 
 # Precision@K Explained
-Precision@K measures how many true good matches appear in the top-K ranked predictions.
+
+- Precision@K answers one question:<br>
+
+```“Among the top K items the model ranked highest, how many are actually good?”```<br>
+
+In this project:
+- “items” = candidates
+- “good” = candidates where is_good_match = 1
+- “top K” = the top K candidates ranked by the model’s predicted score<br>
+
+Precision@K is simply:<br>
+```(number of true good matches in the top K) / K```<br>
+
+
+# Example:
+Model returns top 10 candidates
+In those 10, 3 are actually good matches (is_good_match = 1)
+Then:
+Precision@10 = 3 / 10 = 0.30 = 30%
 
 # Formula:
 ```P@K = (# of correct matches in top K) / K```
