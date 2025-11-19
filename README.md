@@ -68,7 +68,7 @@ Precision@K measures how many true good matches appear in the top-K ranked predi
 
 # Formula:
 ```P@K = (# of correct matches in top K) / K```
-It focuses on the quality of the top of the ranked list, which is the most important part of marketplace ranking and recommendation systems.
+<br>It focuses on the quality of the top of the ranked list, which is the most important part of marketplace ranking and recommendation systems.
 
 ## Why This Project Matters
 
