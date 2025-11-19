@@ -30,28 +30,6 @@ Select a job
 Display Top-K candidates
 Inspect prediction scores
 Visualize ranking metrics
-📁 Project Structure
-ranking_engine/
-│
-├── app/
-│   └── streamlit_app.py
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── artifacts/
-│   └── matching_xgb.pkl
-│
-├── src/
-│   ├── data_simulation.py
-│   ├── features.py
-│   ├── metrics.py
-│   ├── model.py
-│   └── evaluate.py
-│
-├── requirements.txt
-└── README.md
 🛠️ How to Run
 1️⃣ Create virtual environment
 python3 -m venv .venv
