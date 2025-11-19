@@ -4,8 +4,8 @@
     It generates synthetic candidates and jobs, builds match features, trains an ML ranking model, and visualizes results through an interactive Streamlit dashboard.
     The goal is to demonstrate data science, ML modeling, experimentation, and product thinking for DS/ML roles involving ranking, recommendations, and labor-market intelligence.
 
-## Features
-# Synthetic Data Generation:
+# Features
+## Synthetic Data Generation:
 
 - 30,000+ candidates
 - 5,000+ jobs
@@ -18,8 +18,8 @@
 - Job Types
 - Matching Difficulty
 
-## Feature Engineering
-# Extracted match features include:
+# Feature Engineering
+## Extracted match features include:
 
 - Skill overlap
 - Experience compatibility
